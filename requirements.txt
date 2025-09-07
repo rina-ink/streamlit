@@ -5,3 +5,5 @@ matplotlib>=3.8
 datasets>=3.0.0
 huggingface_hub>=0.23
 Pillow>=9
+torchcodec
+soundfile
