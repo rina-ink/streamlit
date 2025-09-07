@@ -6,3 +6,5 @@ datasets==3.2.0
 huggingface-hub>=0.23
 Pillow>=9
 soundfile>=0.12
+librosa>=0.10
+
